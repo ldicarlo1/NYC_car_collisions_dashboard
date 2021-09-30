@@ -1,3 +1,5 @@
+# NYC 2015- 2021 Car Collisions Dashboard
+
 ### This directory contains an RShiny application that displays an interactive data dashboard.
 
 The dataset is the NYC Vehicle Collisions Dataset, and has been cleaned/preprocessed from its original size
