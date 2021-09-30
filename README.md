@@ -2,6 +2,12 @@
 
 ### This directory contains an RShiny application that displays an interactive data dashboard.
 
+![alt text](https://github.com/ldicarlo1/NYC_car_collisions_dashboard/blob/main/images/screencapture-127-0-0-1-5548-2021-09-30-17_43_37.png)
+
+
+
+
+
 The dataset is the NYC Vehicle Collisions Dataset, and has been cleaned/preprocessed from its original size
 of 397 MB to 85 MB. This dataset is stored in the /data folder within this repository.
 
