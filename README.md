@@ -2,6 +2,8 @@
 
 ### This directory contains an RShiny application that displays an interactive data dashboard.
 
+Dashboard Display Below:
+
 ![alt text](https://github.com/ldicarlo1/NYC_car_collisions_dashboard/blob/main/images/screencapture-127-0-0-1-5548-2021-09-30-17_43_37.png)
 
 
