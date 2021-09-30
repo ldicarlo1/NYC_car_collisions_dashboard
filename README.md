@@ -10,14 +10,17 @@ Dashboard Display Below:
 
 
 
-##### The Data
+## The Data
 
 The dataset is the NYC Vehicle Collisions Dataset, and has been cleaned/preprocessed from its original size
-of 397 MB to 85 MB. This dataset is stored in the /data folder within this repository.
+of 397 MB to 85 MB. The RMarkdown file _data_analysis.Rmd_ preprocesses and analyzes the data. However the 
+original dataset is not available due to its large size (>600 MB). 
 
-The original data is available for download from: https://data.cityofnewyork.us/Public-Safety/accidents/yjf6-ewhz/data
+Therefore he original data is available for download from: https://data.cityofnewyork.us/Public-Safety/accidents/yjf6-ewhz/data
+
+This dataset is stored in the /data folder within this repository.
 
 
-##### Running the Dashboard
+## Running the Dashboard
 
 In order to run the app.R file to see the dashboard, simply download this repository and run the app.R file in RStudio.
